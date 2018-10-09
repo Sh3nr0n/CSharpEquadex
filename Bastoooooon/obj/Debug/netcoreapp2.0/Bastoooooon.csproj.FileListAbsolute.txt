@@ -1,0 +1,10 @@
+/home/k0d3/Documents/Masterclass/C# Equadex/Bastoooooon/obj/Debug/netcoreapp2.0/Bastoooooon.csproj.CoreCompileInputs.cache
+/home/k0d3/Documents/Masterclass/C# Equadex/Bastoooooon/obj/Debug/netcoreapp2.0/Bastoooooon.AssemblyInfoInputs.cache
+/home/k0d3/Documents/Masterclass/C# Equadex/Bastoooooon/obj/Debug/netcoreapp2.0/Bastoooooon.AssemblyInfo.cs
+/home/k0d3/Documents/Masterclass/C# Equadex/Bastoooooon/bin/Debug/netcoreapp2.0/Bastoooooon.deps.json
+/home/k0d3/Documents/Masterclass/C# Equadex/Bastoooooon/bin/Debug/netcoreapp2.0/Bastoooooon.runtimeconfig.json
+/home/k0d3/Documents/Masterclass/C# Equadex/Bastoooooon/bin/Debug/netcoreapp2.0/Bastoooooon.runtimeconfig.dev.json
+/home/k0d3/Documents/Masterclass/C# Equadex/Bastoooooon/bin/Debug/netcoreapp2.0/Bastoooooon.dll
+/home/k0d3/Documents/Masterclass/C# Equadex/Bastoooooon/bin/Debug/netcoreapp2.0/Bastoooooon.pdb
+/home/k0d3/Documents/Masterclass/C# Equadex/Bastoooooon/obj/Debug/netcoreapp2.0/Bastoooooon.dll
+/home/k0d3/Documents/Masterclass/C# Equadex/Bastoooooon/obj/Debug/netcoreapp2.0/Bastoooooon.pdb

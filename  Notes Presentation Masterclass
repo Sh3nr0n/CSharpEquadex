@@ -1,0 +1,55 @@
+Intervenant: Mathieu Busolin, Thomas Belloc
+
+
+Type valeurs
+c'estquoi la pile? c'est quoi le tas?
+
+Type reférence
+
+C# : il faut déclarer les types avant le nom de variable (only pour les tableaux?)
+
+Conditions ternaires
+
+Dans un switch on peut supprimer des breaks entre les cases si on veut effecter le meme code pour des cases différents.
+
+
+
+int compteur = 0
+While (compteur <10){
+
+//Code to execute
+compteur ++
+
+}
+
+
+foreach => permet de oarcourir tout le tableau sans avoir besoin de paramétrer la longueur de tableau à parcourir, on récupère la valeur associée à l'index au lieu de l'index lui-meme (différence avec un for classique)
+
+do  while pour etre sur d'effectuer l code au moins une fois
+
+La POO en C#:
+
+attribut = variable interne à une classe, on ne peutpas y accéder
+propriété = variable externe à une classe, on peut accéder a une propriété de l'objet
+encapsulation = définir si une classe est public ou private (inetrnal , protected)
+accesseurs = public ou private (inetrnal , protected)
+convention : _nom devant le nom d'un attribut
+convention : nom de l'attribut sans _
+Constructeur: possibilité de forcer les utilisateurs de la classe a entrer les propriétés correspondant aux argumnts déclarés dans le construcetru de la classe
+
+/!\ Quand on créé une classe on créé un types /!\
+
+Héritage: Une seule classe parente (héritage multiple impossible), "sealed" empeche l'heritage, "override" permet de redéfinir une méthode hérité d'une classe parente
+
+En c# tout est objetgethascode = obtenir l'emplacement mémoire dans la pile
+
+Interface : Signatures de méthode = interface_a_implementer 
+Implémentation = class Nom_classe : interface_a_implementer
+Interface = contrat passé avec la classe
+
+Namespaces: Organiser le code de façon logique, permet d'appeler les classes depuis un autre fichier
+1 classe = 1 fichier / 1 classe = 1 interface
+
+Conventions de nommage: 
+
+

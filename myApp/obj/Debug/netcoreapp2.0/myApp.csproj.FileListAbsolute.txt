@@ -1,0 +1,10 @@
+/home/k0d3/Documents/Masterclass/C# Equadex/myApp/bin/Debug/netcoreapp2.0/myApp.deps.json
+/home/k0d3/Documents/Masterclass/C# Equadex/myApp/bin/Debug/netcoreapp2.0/myApp.runtimeconfig.json
+/home/k0d3/Documents/Masterclass/C# Equadex/myApp/bin/Debug/netcoreapp2.0/myApp.runtimeconfig.dev.json
+/home/k0d3/Documents/Masterclass/C# Equadex/myApp/bin/Debug/netcoreapp2.0/myApp.dll
+/home/k0d3/Documents/Masterclass/C# Equadex/myApp/bin/Debug/netcoreapp2.0/myApp.pdb
+/home/k0d3/Documents/Masterclass/C# Equadex/myApp/obj/Debug/netcoreapp2.0/myApp.csproj.CoreCompileInputs.cache
+/home/k0d3/Documents/Masterclass/C# Equadex/myApp/obj/Debug/netcoreapp2.0/myApp.AssemblyInfoInputs.cache
+/home/k0d3/Documents/Masterclass/C# Equadex/myApp/obj/Debug/netcoreapp2.0/myApp.AssemblyInfo.cs
+/home/k0d3/Documents/Masterclass/C# Equadex/myApp/obj/Debug/netcoreapp2.0/myApp.dll
+/home/k0d3/Documents/Masterclass/C# Equadex/myApp/obj/Debug/netcoreapp2.0/myApp.pdb
